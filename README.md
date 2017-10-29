@@ -9,3 +9,7 @@
 ----
 
 1.[ECMAScript 相关知识略述](https://github.com/ajccom/blog/issues/1)
+
+2.[一种热力图绘制方法](https://github.com/ajccom/blog/issues/2)
+
+
