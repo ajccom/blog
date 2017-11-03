@@ -6,13 +6,11 @@
 
 博文以 Issue 形式展示，如果博文有侵犯著作权之处请直接联系本人:)
 
-----
+- [GIT 工作流规范指导](https://github.com/ajccom/blog/issues/3)
 
-3. [GIT 工作流规范指导](https://github.com/ajccom/blog/issues/3)
+- [一种热力图绘制方法](https://github.com/ajccom/blog/issues/2)
 
-2. [一种热力图绘制方法](https://github.com/ajccom/blog/issues/2)
-
-1. [ECMAScript 相关知识略述](https://github.com/ajccom/blog/issues/1)
+- [ECMAScript 相关知识略述](https://github.com/ajccom/blog/issues/1)
 
 
 ## THANKS
